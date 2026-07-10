@@ -16,6 +16,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | --- | --- |
 | [Kaiser Geary Lab Visit Guide](skills/Kaiser_Geary_Lab_Visit_Guide.md) | When to visit the Kaiser outpatient lab on Geary Blvd for short waits, plus prep tips for routine blood work and STI screening. |
 | [SF Community Portal for Homeowners](skills/Skill_SF_Community_Portal_for_Homeowners.md) | When to use the Assessor-Recorder Community Portal for exemptions and property records — and when to pay taxes elsewhere instead. |
+| [家庭烧烤 SOP](skills/家庭烧烤_SOP_Skill_File.md) | End-to-end home barbecue SOP: day-before prep, packing checklist, setup, grilling, cleanup, and safety (mask/goggles, charcoal disposal). |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
