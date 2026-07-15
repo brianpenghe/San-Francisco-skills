@@ -2,15 +2,17 @@
 
 Practical knowledge for living, working, and getting around in San Francisco. This repo collects the local know-how that makes the city easier to navigate — the kind of advice you usually only pick up after months of trial and error.
 
+These are **skills ChatGPT doesn't have yet**: firsthand, situation-specific guides that aren't in a general model's training data — wait times you've measured, portals you've used, apps you've mistaken, SOPs you've refined at home.
+
 ## What this is
 
 San Francisco is dense, expensive, and full of quirks. Getting a handle on it means learning more than what a guidebook covers: how Muni actually works, which neighborhoods fit your budget, what to wear when the fog rolls in, and how to make the most of a city that rewards people who know where to look.
 
-**San Francisco Skills** is a growing collection of guides, tips, and reference material for anyone new to the city — students, researchers, transplants, and visitors who want to stay longer than a weekend.
+**San Francisco Skills** is a growing collection of guides, tips, and reference material for anyone new to the city — students, researchers, transplants, and visitors who want to stay longer than a weekend. Use them alongside ChatGPT (or other assistants) to fill gaps the model can't answer from general knowledge alone.
 
 ## Skills
 
-All skill guides live in the [`skills/`](skills/) folder. Each file is a standalone, evidence-based guide for a specific SF survival task.
+All skill guides live in the [`skills/`](skills/) folder. Each file is a standalone, evidence-based guide for a specific SF survival task that ChatGPT doesn't already know.
 
 | Skill | Description |
 | --- | --- |
@@ -19,6 +21,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [家庭烧烤 SOP](skills/家庭烧烤_SOP_Skill_File.md) | End-to-end home barbecue SOP: day-before prep, packing checklist, setup, grilling, cleanup, and safety (mask/goggles, charcoal disposal). |
 | [Amazon Subscribe & Save + Amazon Key](skills/Amazon_Subscribe_Save_Amazon_Key_Skill.md) | Why Subscribe & Save excludes in-garage delivery, when Amazon Key applies, and safe delivery-instruction wording. |
 | [Fitness SF App Guide](skills/fitness_sf_app_guide.md) | How to install the correct FITNESS SF app (orange icon, Jackovics Enterprises) and troubleshoot login during the portal transition. |
+| [Outer Mission Property History](skills/outer_mission_property_history-v2.md) | Dan White's life timeline, Outer Mission / Shawnee Ave context, and how California disclosure law intersects with stigmatized property research. |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
