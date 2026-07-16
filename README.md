@@ -23,6 +23,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [Fitness SF App Guide](skills/fitness_sf_app_guide.md) | How to install the correct FITNESS SF app (orange icon, Jackovics Enterprises) and troubleshoot login during the portal transition. |
 | [Outer Mission Property History](skills/outer_mission_property_history-v2.md) | Dan White's life timeline, Outer Mission / Shawnee Ave context, and how California disclosure law intersects with stigmatized property research. |
 | [SF Neighborhoods Hierarchy](skills/san_francisco_neighborhoods_hierarchy.md) | Hierarchical inventory of SF macro-districts, neighborhoods, and micro-neighborhoods (e.g. Inner Sunset / Windsor Terrace). |
+| [Wild Bird Emergency Rescue](skills/bird_rescue_skill_file.md) | Glue-trap and injury triage for wild birds: what not to do overnight, and Bay Area wildlife dispatch contacts (SF ACC, PHS, WildCare). |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
