@@ -25,6 +25,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [SF Neighborhoods Hierarchy](skills/san_francisco_neighborhoods_hierarchy.md) | Hierarchical inventory of SF macro-districts, neighborhoods, and micro-neighborhoods (e.g. Inner Sunset / Windsor Terrace). |
 | [Wild Bird Emergency Rescue](skills/bird_rescue_skill_file.md) | Glue-trap and injury triage for wild birds: what not to do overnight, and Bay Area wildlife dispatch contacts (SF ACC, PHS, WildCare). |
 | [Weee Rewards & Yogurt Nutrition](skills/Weee_Yogurt_skill.md) | When Weee Gold recharge upgrades are worth it, plus yogurt sugar/lactose notes (plain Greek vs. fruit-on-bottom). |
+| [Pokémon GO](skills/Pokemon_GO_Skill_File.md) | CP vs IVs, Stardust priorities, transfer/trade rules, research types, Quick Catch, and beginner storage filters. |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
