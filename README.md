@@ -26,7 +26,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [Wild Bird Emergency Rescue](skills/bird_rescue_skill_file.md) | Glue-trap and injury triage for wild birds: what not to do overnight, and Bay Area wildlife dispatch contacts (SF ACC, PHS, WildCare). |
 | [Weee Rewards & Yogurt Nutrition](skills/Weee_Yogurt_skill.md) | When Weee Gold recharge upgrades are worth it, plus yogurt sugar/lactose notes (plain Greek vs. fruit-on-bottom). |
 | [Pokémon GO](skills/Pokemon_GO_Skill_File.md) | CP vs IVs, Stardust priorities, transfer/trade rules, research types, Quick Catch, and beginner storage filters. |
-| [DMV Renewal (H-1B)](skills/SKILL_DMV_Renewal_Conversation.md) | California license renewal packing list for H-1B holders: passport, I-94, I-797A, two residency proofs, and appointment notes. |
+| [DMV Renewal (H-1B / REAL ID)](skills/SKILL_DMV_H1B_REALID.md) | CA license renewal packing list for H-1B holders: I-94, I-797A vs I-797B, residency proofs, REAL ID eligibility, and what you can skip. |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
