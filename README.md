@@ -27,6 +27,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [Weee Rewards & Yogurt Nutrition](skills/Weee_Yogurt_skill.md) | When Weee Gold recharge upgrades are worth it, plus yogurt sugar/lactose notes (plain Greek vs. fruit-on-bottom). |
 | [Pokémon GO](skills/Pokemon_GO_Skill_File.md) | CP vs IVs, Stardust priorities, transfer/trade rules, research types, Quick Catch, and beginner storage filters. |
 | [DMV Renewal (H-1B / REAL ID)](skills/SKILL_DMV_H1B_REALID.md) | CA license renewal packing list for H-1B holders: I-94, I-797A vs I-797B, residency proofs, REAL ID eligibility, and what you can skip. |
+| [Cross-Border Tax & Wealth Transfer](skills/gemini-code-1784854718509.md) | UK vs US/CA tax brackets, tax-loss harvesting, trusts (信托), and automated tools (Wealthfront, direct indexing). |
 
 More topics may cover getting around, neighborhoods, weather, housing, food, health, and daily life — each as its own `.md` file in `skills/`.
 
