@@ -157,6 +157,38 @@ Usually transfer: - Duplicate common 0★--2★ Pokémon.
 
 ------------------------------------------------------------------------
 
+# Check Nearby Raids
+
+View all nearby raids without tapping individual Gyms on the map.
+
+## Steps
+
+1.  Tap the Nearby button in the lower-right corner of the main map.
+    -   The icon appears as three Pokémon silhouettes (not a
+        text-labeled button).
+2.  In the Nearby screen, switch to the Raid or Battle tab (name varies
+    by game version).
+3.  Browse the list of nearby raids.
+
+## Information Available
+
+Each raid entry typically shows:
+
+-   Raid Boss or Raid Egg
+-   Gym location
+-   Time remaining until the raid ends (or until the egg hatches)
+-   Additional indicators such as friends in the lobby, when applicable
+
+## Notes
+
+-   This view eliminates the need to tap each Gym individually.
+-   The Nearby button is identified by the three Pokémon silhouette
+    icon, which is more recognizable than the feature's official name.
+-   Some game versions may also provide a Campfire-integrated raid map
+    for a broader overview of nearby raids.
+
+------------------------------------------------------------------------
+
 # General Tips
 
 -   Species usually matters more than tiny IV differences.

@@ -25,7 +25,7 @@ All skill guides live in the [`skills/`](skills/) folder. Each file is a standal
 | [SF Neighborhoods Hierarchy](skills/san_francisco_neighborhoods_hierarchy.md) | Hierarchical inventory of SF macro-districts, neighborhoods, and micro-neighborhoods (e.g. Inner Sunset / Windsor Terrace). |
 | [Wild Bird Emergency Rescue](skills/bird_rescue_skill_file.md) | Glue-trap and injury triage for wild birds: what not to do overnight, and Bay Area wildlife dispatch contacts (SF ACC, PHS, WildCare). |
 | [Weee Rewards & Yogurt Nutrition](skills/Weee_Yogurt_skill.md) | When Weee Gold recharge upgrades are worth it, plus yogurt sugar/lactose notes (plain Greek vs. fruit-on-bottom). |
-| [Pokémon GO](skills/Pokemon_GO_Skill_File.md) | CP vs IVs, Stardust priorities, transfer/trade rules, research types, Quick Catch, and beginner storage filters. |
+| [Pokémon GO](skills/Pokemon_GO_Skill_File.md) | CP vs IVs, Stardust priorities, transfer/trade rules, research types, Quick Catch, nearby raids via the silhouette Nearby button, and beginner storage filters. |
 | [DMV Renewal (H-1B / REAL ID)](skills/SKILL_DMV_H1B_REALID.md) | CA license renewal packing list for H-1B holders: I-94, I-797A vs I-797B, residency proofs, REAL ID eligibility, and what you can skip. |
 | [Cross-Border Tax & Wealth Transfer](skills/gemini-code-1784854718509.md) | UK vs US/CA tax brackets, tax-loss harvesting, trusts (信托), and automated tools (Wealthfront, direct indexing). |
 
